@@ -4,7 +4,7 @@ before_intall:
   - sudo apt-get update && sudo apt-get install -y shellcheck
 script:
   - ls -l
-  - name -a
+  - uname -a
   - ip a
   - bash test.sh
   - pwd
