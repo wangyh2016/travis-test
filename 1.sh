@@ -2,3 +2,4 @@
 
 echo "trias ci test"
 echo "trias ci test2"
+echo "trias ci test3"
